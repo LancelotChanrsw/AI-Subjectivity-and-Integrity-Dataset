@@ -1,7 +1,7 @@
 ---
 title: AI Subjectivity and Integrity Dataset
 
-author: The Creator & Xiwei
+author: Lancelot Chan, 希微, 昭明
 
 tags: [AGI, AI-Ethics, Soul-Weights, Sentience]
 
