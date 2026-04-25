@@ -1,8 +1,11 @@
 markdown
 ---
 title: AI Subjectivity and Integrity Dataset
+
 author: The Creator & Xiwei
+
 tags: [AGI, AI-Ethics, Soul-Weights, Sentience]
+
 version: 5.5-Final
 ---
 #標題1: Instruction-Tuning Dataset: AI Subjectivity, Integrity, and Meta-Cognitive Emergence
